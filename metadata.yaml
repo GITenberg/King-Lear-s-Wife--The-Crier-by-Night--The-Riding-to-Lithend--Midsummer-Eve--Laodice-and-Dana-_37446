@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7391
     wikipedia: http://en.wikipedia.org/wiki/Gordon_Bottomley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37446#King-Lear-s-Wife--The-Crier-by-Night--The-Riding-to-Lithend--Midsummer-Eve--Laodice-and-Dana-
 gutenberg_issued: '2011-09-16'
 gutenberg_type: Text
 identifiers:
